@@ -1,0 +1,234 @@
+{
+  "data": {
+    "product": [
+      {
+        "id": 1546352654,
+        "name": "X-TEN 20W50 0,8l",
+        "price": 36000,
+        "stock": 2000,
+        "ratting": 4.0,
+        "category": "Oil",
+        "jenis": "Motor Bebek"
+      },
+      {
+        "id": 1546352655,
+        "name": "Yamaha Mio 14 Inch",
+        "price": 450000,
+        "stock": 500,
+        "ratting": 4.5,
+        "category": "Tires",
+        "jenis": "Motor Matic"
+      },
+      {
+        "id": 1546352656,
+        "name": "Bosch Accu 12V",
+        "price": 1200000,
+        "stock": 300,
+        "ratting": 4.8,
+        "category": "Accu",
+        "jenis": "Motor Sport"
+      },
+      {
+        "id": 1546352657,
+        "name": "Brake Pad Set",
+        "price": 600000,
+        "stock": 150,
+        "ratting": 4.2,
+        "category": "Spareparts",
+        "jenis": "Motor Bebek"
+      },
+      {
+        "id": 1546352658,
+        "name": "LED Headlights",
+        "price": 1500000,
+        "stock": 100,
+        "ratting": 4.7,
+        "category": "Lamps",
+        "jenis": "Motor Matic"
+      },
+      {
+        "id": 1546352659,
+        "name": "Titanium Bolts Set",
+        "price": 80000,
+        "stock": 400,
+        "ratting": 4.6,
+        "category": "Bolts",
+        "jenis": "Motor Sport"
+      },
+      {
+        "id": 1546352660,
+        "name": "Socket Wrench Set",
+        "price": 200000,
+        "stock": 200,
+        "ratting": 4.4,
+        "category": "Tools",
+        "jenis": "Motor Bebek"
+      },
+      {
+        "id": 1546352661,
+        "name": "Handlebar Grip",
+        "price": 50000,
+        "stock": 300,
+        "ratting": 4.3,
+        "category": "Accessory",
+        "jenis": "Motor Matic"
+      },
+      {
+        "id": 1546352662,
+        "name": "Castrol Power1 10W40 1L",
+        "price": 40000,
+        "stock": 1800,
+        "ratting": 4.5,
+        "category": "Oil",
+        "jenis": "Motor Sport"
+      },
+      {
+        "id": 1546352663,
+        "name": "Michelin City Pro 17 Inch",
+        "price": 600000,
+        "stock": 600,
+        "ratting": 4.6,
+        "category": "Tires",
+        "jenis": "Motor Bebek"
+      },
+      {
+        "id": 1546352664,
+        "name": "Exide Bike Battery 12V",
+        "price": 1100000,
+        "stock": 250,
+        "ratting": 4.7,
+        "category": "Accu",
+        "jenis": "Motor Matic"
+      },
+      {
+        "id": 1546352665,
+        "name": "Disc Brake Rotor",
+        "price": 800000,
+        "stock": 120,
+        "ratting": 4.4,
+        "category": "Spareparts",
+        "jenis": "Motor Sport"
+      },
+      {
+        "id": 1546352666,
+        "name": "LED Tail Lights",
+        "price": 1300000,
+        "stock": 80,
+        "ratting": 4.8,
+        "category": "Lamps",
+        "jenis": "Motor Bebek"
+      },
+      {
+        "id": 1546352667,
+        "name": "Stainless Steel Bolt Set",
+        "price": 100000,
+        "stock": 350,
+        "ratting": 4.6,
+        "category": "Bolts",
+        "jenis": "Motor Matic"
+      },
+      {
+        "id": 1546352668,
+        "name": "Combination Wrench Set",
+        "price": 220000,
+        "stock": 180,
+        "ratting": 4.5,
+        "category": "Tools",
+        "jenis": "Motor Sport"
+      },
+      {
+        "id": 1546352669,
+        "name": "Helmet Lock",
+        "price": 60000,
+        "stock": 280,
+        "ratting": 4.3,
+        "category": "Accessory",
+        "jenis": "Motor Bebek"
+      },
+      {
+        "id": 1546352670,
+        "name": "Shell Advance AX7 10W40 1L",
+        "price": 42000,
+        "stock": 1700,
+        "ratting": 4.6,
+        "category": "Oil",
+        "jenis": "Motor Matic"
+      },
+      {
+        "id": 1546352671,
+        "name": "Pirelli Diablo Rosso II 17 Inch",
+        "price": 750000,
+        "stock": 550,
+        "ratting": 4.8,
+        "category": "Tires",
+        "jenis": "Motor Sport"
+      },
+      {
+        "id": 1546352672,
+        "name": "Yuasa Bike Battery 12V",
+        "price": 1250000,
+        "stock": 280,
+        "ratting": 4.9,
+        "category": "Accu",
+        "jenis": "Motor Bebek"
+      },
+      {
+        "id": 1546352673,
+        "name": "Brake Caliper Kit",
+        "price": 900000,
+        "stock": 110,
+        "ratting": 4.5,
+        "category": "Spareparts",
+        "jenis": "Motor Matic"
+      },
+      {
+        "id": 1546352674,
+        "name": "LED Indicator Lights",
+        "price": 1100000,
+        "stock": 90,
+        "ratting": 4.7,
+        "category": "Lamps",
+        "jenis": "Motor Sport"
+      },
+      {
+        "id": 1546352675,
+        "name": "Aluminum Bolt Set",
+        "price": 120000,
+        "stock": 400,
+        "ratting": 4.6,
+        "category": "Bolts",
+        "jenis": "Motor Bebek"
+      },
+      {
+        "id": 1546352676,
+        "name": "Impact Socket Set",
+        "price": 250000,
+        "stock": 150,
+        "ratting": 4.4,
+        "category": "Tools",
+        "jenis": "Motor Matic"
+      },
+      {
+        "id": 1546352677,
+        "name": "Phone Holder",
+        "price": 35000,
+        "stock": 320,
+        "ratting": 4.3,
+        "category": "Accessory",
+        "jenis": "Motor Sport"
+      }
+    ],
+    "Categories": [
+      "Oil",
+      "Tires",
+      "Accu",
+      "Spareparts",
+      "Lamps",
+      "Bolts",
+      "Tools",
+      "Accessory"
+    ],
+    "Jenis": ["Motor Bebek", "Motor Matic", "Motor Sport"]
+  }
+}
+

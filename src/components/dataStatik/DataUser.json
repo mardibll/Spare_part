@@ -1,0 +1,43 @@
+{
+  "data": {
+    "authentication": {
+      "user": {
+        "id": 1564563,
+        "name": "Mardi buulolo",
+        "password": "Admin123#",
+        "role": "user",
+        "token": ""
+      }
+    },
+    "delivery": {
+      "address": [
+        {
+          "id": "5635151",
+          "propinsi": "Dki jakart",
+          "kabupaten": "jakarta selatan",
+          "kecamatan": "cilandak",
+          "kelurahan": "Ranggunan",
+          "kode_pos": 2250,
+          "notes": "Sebelah Tk",
+          "id_user": 1564563
+        }
+      ]
+    },
+    "product": {
+      "id_user": 1564563,
+      "troli": {
+        "data": [
+          {
+            "id": 5534312,
+            "name": "X-TEN 20W50 0,8l",
+            "price": 36000,
+            "qty": 2000,
+            "id_user": 1564563
+          }
+        ],
+        "amount_price": 36000
+      }
+    }
+
+  }
+}
